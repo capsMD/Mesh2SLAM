@@ -1,5 +1,5 @@
 # Mesh2SLAM
 
-Release build for ARM64-v8a available (tested on Quest2).
+Demo build for ARM64-v8a available (tested on Quest2). Release.rar
 
 Sources will be available soon. 
